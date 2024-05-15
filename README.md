@@ -22,27 +22,27 @@ To install the E-Commerce Platform, follow these steps:
 
 1. Clone the repository:
    
-git clone 
-cd your-repository-name
+   git clone 
+   cd your-repository-name
 
-3. Install backend dependencies:
+2. Install backend dependencies:
 
-cd backend
-npm install
+   cd backend
+   npm install
 
-4. Start the backend server:
+3. Start the backend server:
 
-Copy code
-npm run dev
+   Copy code
+   npm run dev
 
-5. Open another terminal, install frontend dependencies:
+4. Open another terminal, install frontend dependencies:
 
-cd frontend
-npm install
+   cd frontend
+   npm install
 
-6. Start the frontend application:
+5. Start the frontend application:
 
-npm run dev
+   npm run dev
 
 Usage
 
